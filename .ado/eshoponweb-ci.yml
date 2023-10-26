@@ -1,10 +1,10 @@
- trigger:
-   branches:
-     include:
-     - main
-   paths:
-     include:
-     - src/web/*
+trigger:
+  branches:
+    include:
+    - main
+  paths:
+    include:
+    - src/web/*
 
 resources:
   repositories:
